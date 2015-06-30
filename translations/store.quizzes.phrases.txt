@@ -1,0 +1,116 @@
+"Phrases"
+{
+	"Quiz Tag"
+	{
+		"en"				"[Store Quizzes] "
+	}
+	
+	"Quiz Tag Colored"
+	{
+		"en"				"{LIGHTRED2}[Store Quizzes] {BLUEGREY}"
+	}
+	
+	"Players Not Met"
+	{
+		"#format"			"{1:i},{2:i}"
+		"en"				"Quizzes are disabled ({LIGHTRED2}{1}/{2} required players{BLUEGREY})"
+	}
+	
+	"Rare Reward Notification"
+	{
+		"en"				"{DARKRED}RARE REWARD POSSIBILITY!"
+	}
+	
+	"Math 2 Variable Question"
+	{
+		"#format"			"{1:i},{2:s},{3:i}"
+		"en"				"Random Question: ({1}) {2} ({3}) = ?"
+	}
+	
+	"Answer Expired Int"
+	{
+		"#format"			"{1:i}"
+		"en"				"The current question has expired! ({LIGHTRED2}Correct Answer: {1}{BLUEGREY})"
+	}
+	
+	"Answer Expired String"
+	{
+		"#format"			"{1:s}"
+		"en"				"The current question has expired! ({LIGHTRED2}Correct Answer: {1}{BLUEGREY})"
+	}
+	
+	"Question Answered All"
+	{
+		"#format"			"{1:s},{2:i},{3:i},{4:s}"
+		"en"				"{1} has answered correctly ({LIGHTRED2}Answer: {2}{BLUEGREY}) and won the reward! ({LIGHTRED2}Reward: {3} {4}{BLUEGREY})"
+	}
+	
+	"Question Answered Reward"
+	{
+		"#format"			"{1:i},{2:s},{3:i}"
+		"en"				"You have been rewarded {1} {2} for answering correctly. (Streak: {3})"
+	}
+	
+	"Question Warning No Winner"
+	{
+		"#format"			"{1:i}"
+		"en"				"Next question in {1} seconds!"
+	}
+	
+	"Question Warning Winner"
+	{
+		"#format"			"{1:i},{2:s}"
+		"en"				"Next question in {1} seconds! Last winner: {2}"
+	}
+	
+	"Stats New Streak"
+	{
+		"#format"			"{1:i}"
+		"en"				"New best streak! Type {LIGHTRED2}!quizstats{BLUEGREY} to view your statistics."
+	}
+	
+	"Stats Loading"
+	{
+		"en"				"Loading stats..."
+	}
+	
+	"Stats Unranked"
+	{
+		"en"				"You are not yet ranked. You must first answer at least 1 question."
+	}
+	
+	"Stats No Data"
+	{
+		"en"				"Either we cannot retrieve that data, or it does not exist."
+	}
+	
+	"Stats Title"
+	{
+		"en"				"{ORCHID}Quiz Stats"
+	}
+	
+	"Stats Total"
+	{
+		"en"				"Total"
+	}
+	
+	"Stats Streak"
+	{
+		"en"				"Streak"
+	}
+	
+	"Stats Best Streak"
+	{
+		"en"				"Best Streak"
+	}
+	
+	"Stats Current Streak"
+	{
+		"en"				"Current Streak"
+	}
+	
+	"Stats Top Menu Title"
+	{
+		"en"				"Quiz Stats Top 25"
+	}
+}
